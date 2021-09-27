@@ -2,7 +2,7 @@
 
 #### Madeleine Gómez Moreira 1ºDAM
 
- En este proyecto encontrarás ***cosas maravillosas***, como las carpetas **src** y **main**.
+ En este proyecto encontrarás ***cosas increíbles***, como las carpetas **src** y **main**.
 Espero que lo que encontréis sea de vuestro agrado.  
 
 > Si buscáis, podréis encontrar enlaces a web de interés acerca del proyecto.
